@@ -9,6 +9,7 @@ $ npm install
 $ npm test
 ```
 
+![dronekit_python_logo](https://cloud.githubusercontent.com/assets/5368500/10805537/90dd4b14-7e22-11e5-9592-5925348a7df9.png)
 ## Running an individual test
 
 ```js
