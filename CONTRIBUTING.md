@@ -107,3 +107,5 @@ but feel free to submit bugs / patches if you find any problems.
 ### Fixing bugs
 
 Bug fixes are always welcome. Please add a test!
+
+sudo pip install dronekit
